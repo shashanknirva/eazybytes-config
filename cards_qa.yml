@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+loans:
+  message: "This is cards qa envernment"
+  contactDetails:
+    name: "shashank shetty"
+    email: "shashank@gmail.com"
+  onCallSupport:
+    - (453) 392-7845
+    - (236) 203-7454

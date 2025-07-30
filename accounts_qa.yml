@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+accounts:
+  message: "Welcome to EazyBank accounts related qa APIs"
+  contactDetails:
+    name: "raj - Product Owner"
+    email: "raj@eazybank.com"
+  onCallSupport:
+    - (453) 392-7845
+    - (236) 203-7454

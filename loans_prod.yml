@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profiles: "prod"
+
+loan:
+  message: "This is loan prod env"
+  contactInfo:
+    name: "shashank shetty"
+    email: "shashank@gmail.com"
+  teleInfo:
+    -"74656-76576"
+    -"76546-67546"

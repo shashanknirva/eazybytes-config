@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+loans:
+  message: "This is cards prod envernment"
+  contactDetails:
+    name: "shashank shetty"
+    email: "shashank@gmail.com"
+  onCallSupport:
+    - (453) 392-7845
+    - (236) 203-7454

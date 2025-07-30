@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on_profile: "qa"
+
+
+loan:
+  message: "This is loan qa env"
+  contactInfo:
+    name: "shashank shetty"
+    email: "shashank@gmail.com"
+  teleInfo:
+    -"74656-76576"
+    -"76546-67546"
+
+
+
