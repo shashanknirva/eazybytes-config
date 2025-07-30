@@ -1,9 +1,3 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
-
-
 loans:
   message: "This is cards qa envernment"
   contactDetails:

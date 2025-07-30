@@ -1,7 +1,3 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
 
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs"

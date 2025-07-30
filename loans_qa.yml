@@ -1,9 +1,3 @@
-spring:
-  config:
-    activate:
-      on_profile: "qa"
-
-
 loan:
   message: "This is loan qa env"
   contactInfo:

@@ -1,7 +1,4 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
+
 
 accounts:
   message: "Welcome to EazyBank accounts related qa APIs"
