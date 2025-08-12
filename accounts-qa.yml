@@ -1,7 +1,7 @@
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related qa APIs"
+  message: "Welcome to EazyBank accounts related Quality APIs"
   contactDetails:
     name: "raj - Product Owner"
     email: "raj@eazybank.com"
